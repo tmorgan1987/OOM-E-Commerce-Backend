@@ -51,7 +51,7 @@ router.put('/:id', (req, res) => {
 	Tag.update(
 		{
 		id: req.body.id,
-		name: req.body.name,
+		tag_name: req.body.tag_name,
 		},
 		{
 			where: {
