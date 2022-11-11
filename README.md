@@ -30,4 +30,6 @@ mit
 
 ## Link
 
-https://github.com/tmorgan1987/OOM-E-Commerce-Backend
+https://github.com/tmorgan1987/OOM-E-Commerce-Backend - Github
+
+https://drive.google.com/file/d/1HFZvjL-Qz6QT-FpuXxjkcp0t-ZWy8uFI/view - Video
